@@ -24,7 +24,7 @@ bash test.sh
 ```
 
 ### Operators
-
+```sh
 -le <=
 -lt <
 -ge >=
@@ -33,7 +33,7 @@ bash test.sh
 -ne !=
 -a &&
 -0 ||
-
+```
 ### If Condition
 
 ```sh
@@ -46,8 +46,14 @@ fi
 
 ### Condition
 
-in bash shell -> [$a -l+ $b]
-in kornshell -> (($a < $b))
+- In bash shell  
+```sh
+[$a -l+ $b]
+```
+- In kornshell 
+```sh
+ (($a < $b))
+ ```
 
 ### Using kornshell
 
