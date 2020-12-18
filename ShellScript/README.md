@@ -1,4 +1,4 @@
-# Linux Bash Script (BCA 7th Semester)
+# Linux Bash Script 
 
 A Bash script is a plain text file which contains a series of commands. These commands are a mixture of commands we would normally type ouselves on the command line (such as ls or cp for example).
 
